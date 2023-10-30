@@ -27,7 +27,7 @@ public class Logical {
 			subcont= subcont+(a*a*a);
 			System.out.println(subcont+" subcont");
 		
-		}
+		} 
 		if (subcont==temp) {
 			System.out.println("is armstrong");
 			
