@@ -8,5 +8,7 @@ public class New_Class {
 		System.out.println("Mane PAtil Only ... Maratha Arakshan Milale Pahije");
 		System.out.println("Mane PAtil Only ... Maratha Arakshan Milale Pahije 123");
 		System.out.println("Mane PAtil Only ... Maratha Arakshan Milale Pahije 123");
+		System.out.println("Mane PAtil Only ... Maratha Arakshan Milale Pahije 123");
+		System.out.println("Mane PAtil Only ... Maratha Arakshan Milale Pahije 123333444");
 	}
 }
