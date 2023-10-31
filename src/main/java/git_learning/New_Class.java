@@ -12,5 +12,6 @@ public class New_Class {
 		System.out.println("pulle");
 		System.out.println("New Line Added");
 		System.out.println("New Line edit");
+		System.out.println("New Test");
 	}
 }
