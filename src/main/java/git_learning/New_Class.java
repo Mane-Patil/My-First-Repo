@@ -9,13 +9,7 @@ public class New_Class {
 		System.out.println("test case");
 		System.out.println("test case");
 		System.out.println("test case");
-		System.out.println("test case");
-		System.out.println("test case");
-		System.out.println("test case");
-		System.out.println("test case");
-		System.out.println("test case11111111");
-		System.out.println("test case");
-		System.out.println("test case");
+	
 		
 	}
 }
