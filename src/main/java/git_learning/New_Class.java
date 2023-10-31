@@ -16,5 +16,8 @@ public class New_Class {
 
 		System.out.println("Added by vishal");
 		System.out.println("Added by vishal 2");
+		
+		System.out.println("Added by jagdish");
+		System.out.println("Added by jagdish 2");
 	}
 }
