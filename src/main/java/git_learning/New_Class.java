@@ -13,5 +13,8 @@ public class New_Class {
 		System.out.println("New Line Added");
 		System.out.println("New Line edit");
 		System.out.println("New Test");
+
+		System.out.println("Added by vishal");
+		System.out.println("Added by vishal 2");
 	}
 }
