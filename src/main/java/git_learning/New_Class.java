@@ -10,7 +10,7 @@ public class New_Class {
 		System.out.println("test case");
 		System.out.println("test case");
 		System.out.println("pulle");
-		System.out.printLn("New Line Added");
-		
+		System.out.println("New Line Added");
+		System.out.println("New Line edit");
 	}
 }
