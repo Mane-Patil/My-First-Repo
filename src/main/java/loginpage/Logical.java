@@ -30,12 +30,13 @@ public class Logical {
 		} 
 		if (subcont==temp) {
 			System.out.println("is armstrong");
-			System.out.println("is armstrong");
+			System.out.println("is armstrongddd");
 			
 		}
 		else {
 			System.out.println("is not armstrong");
 			System.out.println("is not armstrong");
+			System.out.println("is not armstrongddd");
 		}
 	}
 
