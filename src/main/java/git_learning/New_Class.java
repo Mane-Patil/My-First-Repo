@@ -5,7 +5,9 @@ public class New_Class {
 	public static void main(String[] args) {
 		
 	System.out.println("Added by jagdish");
-		System.out.println("Addby githubh");
+	System.out.println("Added by jagdish");
+	System.out.println("Added by eclips");
+		
 	
 		
 	}
