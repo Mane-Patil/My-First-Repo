@@ -7,7 +7,7 @@ public class New_Class {
 	System.out.println("Added by jagdish");
 	System.out.println("Added by jagdish");
 	System.out.println("Added by eclips");
-		
+	System.out.println("Added by added new");
 	
 		
 	}
